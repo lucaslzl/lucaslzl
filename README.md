@@ -4,7 +4,7 @@
 
 :man_student: I'm a **PhD student** at University of Campinas ([UNICAMP](https://ic.unicamp.br/)) with a **Master's Degree** at the same university.
 
-My area of research is Edge Intelligence, exploring approaches to bring artificial intelligence solutions to the edge of the network.
+My area of research is Edge Intelligence, exploring approaches to bring artificial intelligence solutions to the edge of the network. This is important due to the available resources and decreased network delay.
 
 <br>
 
@@ -20,11 +20,13 @@ My daily activities comprehend data science tasks to understand data patterns an
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslzl)](https://github.com/anuraghazra/github-readme-stats)
 
-<br><br>
+<br>
 
 ## 💬 Contact Info
 
 :email: lznladeira gmail.com
+
+:notebook: [Lattes](http://lattes.cnpq.br/9849459140148624)
 
 :computer: [Linkedin](https://www.linkedin.com/in/lucas-zanco-ladeira-116271169/)
 
