@@ -30,11 +30,7 @@ My daily activities comprehend data science tasks to understand data patterns an
 
 📫 E-mail: lznladeira gmail.com
 
-[![gmail](https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-64.png)[1]
-
-[![linkedin](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-64.png)][2]
-
-[![instagram](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-64.png)][3]
+[![gmail](https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-64.png)][1] [![linkedin](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-64.png)][2] [![instagram](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-64.png)][3]
 
 [1]: mailto:lznladeira@gmail.com?subject=Hello
 
