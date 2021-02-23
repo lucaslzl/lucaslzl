@@ -20,8 +20,6 @@ My daily activities comprehend data science tasks to understand data patterns an
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslzl)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
-
 ## 💬 Contact Info
 
 :email: lznladeira gmail.com
