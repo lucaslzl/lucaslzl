@@ -18,4 +18,5 @@ My daily activities comprehend data science tasks to understand data patterns an
 ## 💬 Contact Info
 
 📫 E-mail: lznladeira gmail.com
+
 :office_worker: [Linkedin](https://www.linkedin.com/in/lucas-zanco-ladeira-116271169/)
