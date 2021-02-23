@@ -30,6 +30,6 @@ My daily activities comprehend data science tasks to understand data patterns an
 
 📫 E-mail: lznladeira gmail.com
 
-[![linkedin](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png)][1]
+[![linkedin](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-64.png)][1]
 
 [1]: https://www.linkedin.com/in/lucas-zanco-ladeira-116271169/
