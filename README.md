@@ -7,10 +7,10 @@
 My area of research is Edge Intelligence, exploring approaches to bring artificial intelligence solutions to the edge of the network. This is important due to the available resources and decreased network delay.
 
 <br>
-<!--
-:man_technologist: I'm an **Artificial Intelligence researcher** at [CPQD](https://www.cpqd.com.br/en/).
-My daily activities comprehend data science tasks to understand data patterns and features meaning, develop solutions with machine learning and optimization with focus on natural language processing and computer vision. Furthermore, I'm always willing to learn something new. I love to learn!
-<br>-->
+
+:man_technologist: I'm a **Machine Learning Engineer** at [Sinch](https://www.sinch.com/).
+My daily activities comprehend to develop solutions with machine learning and optimization with focus on natural language processing and computer vision. Furthermore, I'm always willing to learn something new. I love to learn!
+<br>
 
 **Github Stats:**<br/>
 
