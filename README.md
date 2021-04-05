@@ -8,7 +8,7 @@ My area of research is Edge Intelligence, exploring approaches to bring artifici
 
 <br>
 
-:man_technologist: I'm a **Machine Learning Engineer** at [Sinch](https://www.sinch.com/).
+:man_technologist: I'm a **Artificial Intelligence Engineer** at [Sinch](https://www.sinch.com/).
 My daily activities comprehend to develop solutions with machine learning and optimization with focus on natural language processing and computer vision. Furthermore, I'm always willing to learn something new. I love to learn!
 <br>
 
