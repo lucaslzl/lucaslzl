@@ -8,8 +8,8 @@ My area of research is Edge Intelligence, exploring approaches to bring artifici
 
 <br>
 
-:man_technologist: I'm an **Artificial Intelligence Engineer** at [Sinch](https://www.sinch.com/).
-My daily activities comprehend to develop solutions with machine learning and optimization with focus on natural language processing and computer vision. Furthermore, I'm always willing to learn something new. I love to learn!
+:man_technologist: I'm an **Data Scientist** at [will bank](https://www.willbank.com.br/).
+My expertise is natural language processing but I have experience in computer vision, time series prediction, and more. Furthermore, I'm always willing to learn something new. I love to learn!
 <br>
 
 **Github Stats:**<br/>
