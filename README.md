@@ -8,7 +8,7 @@ My area of research is Edge Intelligence, exploring approaches to bring artifici
 
 <br>
 
-:man_technologist: I'm an **Data Scientist** at [will bank](https://www.willbank.com.br/).
+:man_technologist: I'm a **Data Scientist** at [will bank](https://www.willbank.com.br/).
 My expertise is natural language processing but I have experience in computer vision, time series prediction, and more. Furthermore, I'm always willing to learn something new. I love to learn!
 <br>
 
