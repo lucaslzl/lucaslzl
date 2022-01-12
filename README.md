@@ -25,5 +25,3 @@ My expertise is natural language processing but I have experience in computer vi
 :notebook: [Lattes](http://lattes.cnpq.br/9849459140148624)
 
 :computer: [Linkedin](https://www.linkedin.com/in/lucas-zanco-ladeira-116271169/)
-
-:desktop_computer: [Instagram](https://www.instagram.com/lznladeira/)
