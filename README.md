@@ -2,7 +2,7 @@
 
 <br>
 
-:man_student: I'm a **PhD student** at University of Campinas ([UNICAMP](https://ic.unicamp.br/)) with a **Master's Degree** at the same university.
+:man_student: I'm a **PhD student** at University of Campinas ([UNICAMP](https://ic.unicamp.br/)) with a **Doctorate Degree** at the same university.
 
 My area of research is Edge Intelligence, exploring approaches to bring artificial intelligence solutions to the edge of the network. This is important due to the available resources and decreased network delay.
 
