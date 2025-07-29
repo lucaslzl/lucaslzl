@@ -2,13 +2,13 @@
 
 <br>
 
-:man_student: I'm a **PhD student** at University of Campinas ([UNICAMP](https://ic.unicamp.br/)) with a **Master's Degree** at the same university.
+:man_student: I'm a **PhD candidate** at University of Campinas ([UNICAMP](https://ic.unicamp.br/)) with a **Master's Degree** at the same university.
 
 My area of research is Edge Intelligence, exploring approaches to bring artificial intelligence solutions to the edge of the network. This is important due to the available resources and decreased network delay.
 
 <br>
 
-:man_technologist: I'm a **Data Scientist** at [Nubank](https://nubank.com.br/).
+:man_technologist: I'm a **Senior Data Scientist** at [Nubank](https://nubank.com.br/).
 I have experience with credit scoring models, natural language processing, computer vision, recommendation systems, time series prediction, and more. Furthermore, I'm always willing to learn something new. I love to learn!
 <br>
 
