@@ -12,12 +12,6 @@ My area of research is Edge Intelligence, exploring approaches to bring artifici
 I have experience with credit scoring models, natural language processing, computer vision, recommendation systems, time series prediction, and more. Furthermore, I'm always willing to learn something new. I love to learn!
 <br>
 
-**Github Stats:**<br/>
-
-![github stats](https://github-readme-stats.vercel.app/api?username=lucaslzl)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslzl)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 💬 Contact Info
 
 :email: lznladeira gmail.com
