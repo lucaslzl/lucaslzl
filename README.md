@@ -8,7 +8,7 @@ My area of research is Edge Intelligence, exploring approaches to bring artifici
 
 <br>
 
-:man_technologist: I'm a **Senior Data Scientist** at [Nubank](https://nubank.com.br/).
+:man_technologist: I'm a **Senior Data Scientist** at [NG.Cash](https://ng.cash/).
 I have experience with credit scoring models, natural language processing, computer vision, recommendation systems, time series prediction, and more. Furthermore, I'm always willing to learn something new. I love to learn!
 <br>
 
